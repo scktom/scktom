@@ -37,9 +37,7 @@ I attend HyperionDev Skills Bootcamp in Data Science where I acquire these skill
 
 I am looking for an opportunity that could provide me relevant professional experience.
 
-![My HackerRank profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHackerRank&psig=AOvVaw2HxTR6HREPTYE-x2QsmTW3&ust=1692292073009000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiz8rDV4YADFQAAAAAdAAAAABAE)
-
-[HackerRank](https://www.hackerrank.com/herczeg_tamas_b1)
+[![My HackerRank profile](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png)](https://www.hackerrank.com/herczeg_tamas_b1)
 
 <!--
 **scktom/scktom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
