@@ -1,3 +1,5 @@
+https://www.hackerrank.com/herczeg_tamas_b1
+
 # Summary
 Enthusiastic programmer, who is eager to contribute to his company’s success through hard 
 work, confidence and exact attention. Efficient and clean coding used with object-oriented 
@@ -36,6 +38,8 @@ I attend HyperionDev Skills Bootcamp in Data Science where I acquire these skill
 * Git basics
 
 I am looking for an opportunity that could provide me relevant professional experience.
+
+
 
 <!--
 **scktom/scktom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
