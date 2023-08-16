@@ -39,7 +39,7 @@ I am looking for an opportunity that could provide me relevant professional expe
 
 
 
-[](https://www.hackerrank.com/herczeg_tamas_b1)
+[HackerRank](https://www.hackerrank.com/herczeg_tamas_b1)
 
 <!--
 **scktom/scktom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
