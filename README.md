@@ -3,8 +3,6 @@ Strongly motivated programmer, who is enthusiastic about database implementation
 
 I am looking for an opportunity that could provide me relevant professional experience.
 
-[![My HackerRank profile](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png)](https://www.hackerrank.com/herczeg_tamas_b1)
-
 <!--
 **scktom/scktom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
