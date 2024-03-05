@@ -1,4 +1,4 @@
-# Hello, I'm Tamas Herczeg [![Static Badge](https://img.shields.io/badge/Check%20my%20LinkedIn%20profile-Follow?style=social&logo=LinkedIn)](linkedin.com/in/herczeg-tamas/)
+# Hello, I'm Tamas Herczeg [![Static Badge](https://img.shields.io/badge/Check%20my%20LinkedIn%20profile-Follow?style=social&logo=LinkedIn)](https://linkedin.com/in/herczeg-tamas/)
           
 Welcome to my GitHub profile! 👋
 
