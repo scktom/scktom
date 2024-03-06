@@ -2,7 +2,7 @@
           
 Welcome to my GitHub profile! 👋
 
-I have a certificate in Data Science, marking my entry into the realm of Information Technology. While I am still in the early stages of my professional journey, I approach programming and software design with enthusiasm and dedication.
+I have a certificate in Data Science and marking my entry into the realm of Information Technology. While I am still in the early stages of my professional journey, I approach programming and software design with enthusiasm and dedication.
 
 In this portfolio, I share the results of my studies and project work, including those I'm currently working on. All feedback and advice are greatly appreciated!
 
